@@ -1,14 +1,14 @@
 {
-  "name": "typo.sass",
+  "name": "typo",
   "version": "2.1.2",
-  "description": "一致化浏览器排版效果，构建最适合中文阅读的网页排版",
-  "main": "typo.sass",
+  "description": "typo.css port to SASS and LESS",
+  "main": "typo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yulanggong/typo.sass.git"
+    "url": "https://github.com/yulanggong/typo.git"
   },
   "keywords": [
     "typograhpy",
@@ -17,9 +17,9 @@
   "author": "yulanggong <yulanggong@gmail.com> (http://wenlong.ren/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yulanggong/typo.sass/issues"
+    "url": "https://github.com/yulanggong/typo/issues"
   },
-  "homepage": "https://github.com/yulanggong/typo.sass",
+  "homepage": "https://github.com/yulanggong/typo",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-sass": "^2.1.1"
